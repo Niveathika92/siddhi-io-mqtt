@@ -35,6 +35,15 @@
         <module>component</module>
     </modules>
 
+    <scm>
+        <connection>scm:git:https://github.com/wso2-extensions/siddhi-io-mqtt.git</connection>
+        <url>https://github.com/wso2-extensions/siddhi-io-mqtt.git</url>
+        <developerConnection>scm:git:https://github.com/wso2-extensions/siddhi-io-mqtt.git
+        </developerConnection>
+        <tag>HEAD</tag>
+    </scm>
+
+
     <dependencyManagement>
         <dependencies>
             <dependency>
